@@ -4,7 +4,7 @@
 
 Only issues in the course's Path Review repository are candidates:
 
-- Repo:  https://github.com/codepath/ai301-unit1-starter/tree/main/eval/issues
+- Repo: `codepath/pathreview-ai301-fa26-s1`
 
 Do not search, fetch, or grade issues from any other repository, however
 promising. The wider GitHub comes later in the course; for now the field
